@@ -46,8 +46,8 @@ const ExitBtn = styled(ButtonWrap)`
 
 const TitleBar = ({/* newEventHandler, exitBtnHandler */}) => (
   <DivWrap>
-	<NewBtn /*onClick={ newEventHandler}*/> Novi događaj </NewBtn>
-	<ExitBtn /*onClick={ exitBtnHandler}*/> X </ExitBtn>
+	<NewBtn /*onClick={ newEventHandler }*/> Novi događaj </NewBtn>
+	<ExitBtn /*onClick={ exitBtnHandler }*/> X </ExitBtn>
   </DivWrap>
 );
 
